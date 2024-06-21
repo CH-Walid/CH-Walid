@@ -17,7 +17,7 @@ Salam!👋 My name is Walid
 ### 🌐 Connect with me:
 
 <div>
-<a href="https://www.walidchabani.me" target="_blank"><img align="center" src="https://github.com/CH-Walid/CH-Walid/assets/75185278/6840046c-f194-48a5-b5be-1a16af095c3a" alt="favicon" height="40" width="40" /></a>
+<a href="https://ch-walid.github.io/portfolio" target="_blank"><img align="center" src="https://github.com/CH-Walid/CH-Walid/assets/75185278/6840046c-f194-48a5-b5be-1a16af095c3a" alt="favicon" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/walid-chabani/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png" alt="linkedin-logo" height="40" width="40" target="_blank" rel="noopener noreferrer"/></a>
 </div>
 
