@@ -4,8 +4,6 @@ Salam!👋 My name is Walid
 ### I’m a Junior Full Stack Web Developer 🔥
 
 * * *
-- 👀 I’m actively seeking an **internship to leverage my skills**
-
 - 🌱 I’m currently enhancing my skills in **Web Development**
 
 - 🔭 I’m working on **projects to add to my portfolio**
