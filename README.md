@@ -46,7 +46,7 @@ Salam!👋 My name is Walid
 
 ### 📓 Checkout my resume:
 <div>
-<a href="https://drive.google.com/file/d/1A9QeXmek1anDt23Rk4CdHEhSogoiQhlX/view?usp=sharing" target="_blank">Click here!</a>
+<a href="https://drive.google.com/file/d/1CX3JvGzgL0HD_fWIwMpE5hgtSDR10ou7/view?usp=sharing" target="_blank">Click here!</a>
 </div>
 
 ###
